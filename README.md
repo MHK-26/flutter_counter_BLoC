@@ -1,20 +1,5 @@
 # counter_app_bloc
 
-A new Flutter project.
+A new Flutter project testing flutter bloc with the simple counter app.
 
 
-Structure
-├── lib
-│   ├── app.dart
-│   ├── counter
-│   │   ├── counter.dart
-│   │   ├── cubit
-│   │   │   └── counter_cubit.dart
-│   │   └── view
-│   │       ├── counter_page.dart
-│   │       ├── counter_view.dart
-│   │       └── view.dart
-│   ├── counter_observer.dart
-│   └── main.dart
-├── pubspec.lock
-├── pubspec.yaml
